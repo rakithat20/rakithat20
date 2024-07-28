@@ -16,14 +16,37 @@
  
  🌱 I’m currently learning **Next JS, Solidity, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything <a href="mailto:tharupathir@gmail.com">here</a>**
+💬 Ask me about **Node.js, React ... or anything <a href="mailto:tharupathir@gmail.com">here</a>**
 
 ⚡ Fun fact **Most of the AI Startups are just GPT Wrappers xD**
 
-🌐 Check out my portfolio <a href="https://www.tharupathir.live/#about">here</a> and learn more about me!
  </div>
  
+ 
+<div align="center"> 
+  <a href=""mailto:tharupathir@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/tharupathi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.tharupathir.live" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
+ <hr/>
+
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,postgre,typescript,express,mongodb,c,java,nextjs,mysql," /><br>
+</div>
+
+<br/>
+<hr/>
 <!---
 rakithat20/rakithat20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
