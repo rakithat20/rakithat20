@@ -16,10 +16,11 @@
  
  🌱 I’m currently learning **Next JS, Solidity, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here] <a href = "mailto:tharupathir@gmail.com"/>**
+💬 Ask me about **Node.js, React, Firebase... or anything <a href="mailto:tharupathir@gmail.com">here</a>**
 
 ⚡ Fun fact **Most of the AI Startups are just GPT Wrappers xD**
 
+🌐 Check out my portfolio <a href="https://www.tharupathir.live/#about">here</a> and learn more about me!
  </div>
  
 
