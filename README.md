@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Next JS, Solidity, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://mailto:tharupathir@gmail.com)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here] <a href = "mailto:tharupathir@gmail.com"/>**
 
 ⚡ Fun fact **Most of the AI Startups are just GPT Wrappers xD**
 
