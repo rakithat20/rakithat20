@@ -56,6 +56,10 @@
   <br/><br/><br/>
 </div>
 
+<br/><br/>
+
+<h2>🔥 Streak 🔥</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakithat20&theme=tokyonight&hide_border=true" alt="rakithat20's GitHub Stats" />
 <!---
 rakithat20/rakithat20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
