@@ -55,8 +55,8 @@
   
   <br/><br/><br/>
 </div>
-
-<br/><br/>
+<hr/>
+<br/>
 
 
 <div align = "center">
