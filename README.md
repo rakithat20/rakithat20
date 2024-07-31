@@ -48,13 +48,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-    <img alt="snake eating my contributions" src="https://github.com/rakithat20/rakithat20/blob/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 <hr/>
 <br/>
 
